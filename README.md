@@ -1,4 +1,4 @@
-# Image Classification with EfficientNetB4
+# Image Classification 
 
 This project implements an image classifier using a pre-trained EfficientNetB4 model. The model has been fine-tuned for classification on a new dataset containing images of different landscapes. The aim of the project is to correctly classify images into one of the six categories: "buildings", "forest", "glacier", "mountain", "sea", "street".
 
